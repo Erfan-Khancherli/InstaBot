@@ -1,8 +1,4 @@
-# InstaBot
 <html>
-	<head>
-		<title>Readme</title>
-	</head>
 	<body>
 		<h1>This is a Instagram Bot With Python.</h1>
 		<h2>Libraries :</h2>
