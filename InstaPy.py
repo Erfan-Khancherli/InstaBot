@@ -220,9 +220,3 @@ if __name__ == '__main__':
         password = input('whats your instagram password ?!')
         ig_bot = InstagramBot(username,password)
         ig_bot.List_Follower_Following(user)
-
-    
-    #ig_bot.follow_user('cristiano')
-    #ig_bot.Like_Post('mohamad.hosein_1997')
-    
-    
